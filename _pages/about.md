@@ -7,11 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a fifth-year PhD student in the [Department of Statistics and Data Science](https://statistics.wharton.upenn.edu/), [Wharton School](https://www.wharton.upenn.edu/) of [University of Pennsylvania](https://www.upenn.edu/), advised by [T. Tony Cai](http://www-stat.wharton.upenn.edu/~tcai/). My research broadly focuses on high-dimensional and non-parametric statistics, with a specific interest in distributed statistical estimation under privacy constraints and distribution shift. I also collaborate with [Eugene Katsevich](https://ekatsevi.github.io/) on high-dimensional variable selection, conditional independence testing, and double/debiased machine learning.
+I am a fifth-year PhD student in the [Department of Statistics and Data Science](https://statistics.wharton.upenn.edu/), [Wharton School](https://www.wharton.upenn.edu/) of [University of Pennsylvania](https://www.upenn.edu/), advised by [T. Tony Cai](http://www-stat.wharton.upenn.edu/~tcai/). My research broadly focuses on high-dimensional and non-parametric statistics, with a specific interest in distributed statistical estimation under privacy constraints and distribution shift. I also closely collaborate with [Eugene Katsevich](https://ekatsevi.github.io/) on high-dimensional variable selection and conditional independence testing.
 
 Prior to my PhD, I completed both my Bachelor's and Master's degrees at the [Indian Statistical Institute](https://www.isical.ac.in/).
+
+### Research Interests
+- Distributed Data
+- Nonparametric Estimation and Inference
+- Differential Privacy
+- Transfer Learning
+- High-dimensional Variable Selection
+- Conditional Independence Testing
+- Double/Debiased Machine Learning
  
-[A data-driven personal website
+<!---
+
+A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -48,4 +59,6 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.]. #
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+-->
