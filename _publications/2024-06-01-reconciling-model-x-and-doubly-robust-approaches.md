@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-06-01-reconciling-model-x-and-doubly-robust-approaches
 excerpt: 'This paper investigates the connections between model-X and doubly robust approaches to conditional independence testing, particularly through the dCRT and GCM tests.'
-date: 2024-06
+date: 2024-06-01
 venue: 'The Annals of Statistics'
 paperurl: 'https://projecteuclid.org/journals/annals-of-statistics/volume-52/issue-3/Reconciling-model-X-and-doubly-robust-approaches-to-conditional-independence/10.1214/24-AOS2372.full' 
 citation: 'Ziang Niu, Abhinav Chakraborty, Oliver Dukes, Eugene Katsevich. (2024). "Reconciling model-X and doubly robust approaches to conditional independence testing." <i>The Annals of Statistics</i>, 52(3), 895-921.'
