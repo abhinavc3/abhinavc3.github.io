@@ -1,7 +1,7 @@
 ---
 title: "Optimal Federated Learning for Nonparametric Regression with Heterogeneous Distributed Differential Privacy Constraints"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/2024-06-10-optimal-federated-learning
 excerpt: 'This paper explores federated learning for nonparametric regression under heterogeneous differential privacy constraints, establishing optimal rates of convergence for both global and pointwise estimation.'
 date: 2024-06-10
