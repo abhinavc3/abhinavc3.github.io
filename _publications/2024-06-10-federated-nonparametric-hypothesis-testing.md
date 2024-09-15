@@ -1,7 +1,7 @@
 ---
 title: "Federated Nonparametric Hypothesis Testing with Differential Privacy Constraints: Optimal Rates and Adaptive Tests"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/2024-06-10-federated-nonparametric-hypothesis-testing
 excerpt: 'This paper investigates federated nonparametric goodness-of-fit testing under distributed differential privacy constraints, establishing optimal rates and adaptive testing procedures.'
 date: 2024-06-10

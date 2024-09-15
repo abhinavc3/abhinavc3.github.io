@@ -1,7 +1,7 @@
 ---
 title: "High Dimensional PCA: A New Model Selection Criterion"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/2020-11-09-high-dimensional-pca
 excerpt: 'This paper investigates model selection criteria in high-dimensional PCA, focusing on the Akaike Information Criterion (AIC) and its consistency under varying conditions of eigenvalue separation.'
 date: 2020-11-09

@@ -1,7 +1,7 @@
 ---
 title: "PriME: Privacy-aware Membership Profile Estimation in Networks"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/2024-06-04-prime-privacy-aware-membership-profile-estimation
 excerpt: 'This paper introduces a privacy-preserving algorithm for estimating community membership probabilities in networks, using a symmetric edge flip mechanism and spectral clustering under local differential privacy constraints.'
 date: 2024-06-04

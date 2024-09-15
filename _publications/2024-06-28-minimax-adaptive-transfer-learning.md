@@ -1,7 +1,7 @@
 ---
 title: "Minimax And Adaptive Transfer Learning for Nonparametric Classification under Distributed Differential Privacy Constraints"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/2024-06-28-minimax-adaptive-transfer-learning
 excerpt: 'This paper explores minimax and adaptive transfer learning for nonparametric classification under distributed differential privacy constraints, focusing on the posterior drift model.'
 date: 2024-06-28
