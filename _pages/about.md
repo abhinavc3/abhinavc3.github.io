@@ -12,10 +12,10 @@ I am a fifth-year PhD student in the [Department of Statistics and Data Science]
 Prior to my PhD, I completed both my Bachelor's and Master's degrees at the [Indian Statistical Institute](https://www.isical.ac.in/).
 
 ### Research Interests
-- Distributed Data
 - Nonparametric Estimation and Inference
 - Differential Privacy
 - Transfer Learning
+- Minimax theory
 - High-dimensional Variable Selection
 - Conditional Independence Testing
 - Double/Debiased Machine Learning
