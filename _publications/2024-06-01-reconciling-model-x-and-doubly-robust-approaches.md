@@ -2,7 +2,7 @@
 title: "Reconciling model-X and doubly robust approaches to conditional independence testing"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-06-reconciling-model-x-and-doubly-robust-approaches
+permalink: /publication/2024-06-01-reconciling-model-x-and-doubly-robust-approaches
 excerpt: 'This paper investigates the connections between model-X and doubly robust approaches to conditional independence testing, particularly through the dCRT and GCM tests.'
 date: 2024-06
 venue: 'The Annals of Statistics'
