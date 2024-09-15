@@ -6,7 +6,8 @@ permalink: /publication/2024-06-reconciling-model-x-and-doubly-robust-approaches
 excerpt: 'This paper investigates the connections between model-X and doubly robust approaches to conditional independence testing, particularly through the dCRT and GCM tests.'
 date: 2024-06
 venue: 'The Annals of Statistics'
-paperurl: 'https://projecteuclid.org/journals/annals-of-statistics/volume-52/issue-3/Reconciling-model-X-and-doubly-robust-approaches-to-conditional-independence/10.1214/24-AOS2372.full' citation: 'Ziang Niu, Abhinav Chakraborty, Oliver Dukes, Eugene Katsevich. (2024). "Reconciling model-X and doubly robust approaches to conditional independence testing." <i>The Annals of Statistics</i>, 52(3), 895-921.'
+paperurl: 'https://projecteuclid.org/journals/annals-of-statistics/volume-52/issue-3/Reconciling-model-X-and-doubly-robust-approaches-to-conditional-independence/10.1214/24-AOS2372.full' 
+citation: 'Ziang Niu, Abhinav Chakraborty, Oliver Dukes, Eugene Katsevich. (2024). "Reconciling model-X and doubly robust approaches to conditional independence testing." <i>The Annals of Statistics</i>, 52(3), 895-921.'
 ---
 
 Model-X approaches to testing conditional independence between a predictor and an outcome variable given a vector of covariates usually assume exact knowledge of the conditional distribution of the predictor given the covariates. Nevertheless, model-X methodologies are often deployed with this conditional distribution learned in sample. 
