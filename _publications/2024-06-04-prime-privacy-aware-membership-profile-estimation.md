@@ -16,4 +16,4 @@ We conduct a comprehensive analysis of the estimation risk and establish the opt
 
 This work represents a significant step forward in balancing accurate community membership estimation with stringent privacy preservation in network data analysis.
 
-[PDF available here](https://arxiv.org/abs/2406.02794)
+[PDF](https://arxiv.org/abs/2406.02794)

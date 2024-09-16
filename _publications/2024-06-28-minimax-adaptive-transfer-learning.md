@@ -16,4 +16,4 @@ We first establish the minimax misclassification rate, precisely characterizing 
 
 We then develop a data-driven adaptive classifier that achieves the optimal rate within a logarithmic factor across a large collection of parameter spaces while satisfying the same set of differential privacy constraints. Simulation studies and real-world data applications further elucidate the theoretical analysis with numerical results.
 
-[PDF available here](https://arxiv.org/abs/2406.20088)
+[PDF](https://arxiv.org/abs/2406.20088)

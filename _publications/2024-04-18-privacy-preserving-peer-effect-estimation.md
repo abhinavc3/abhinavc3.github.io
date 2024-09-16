@@ -14,4 +14,4 @@ The Ising model, originally developed as a spin-glass model for ferromagnetic el
 
 In this paper, we present a novel $\epsilon$-differentially private algorithm specifically designed to protect the privacy of individual agents’ outcomes. Our algorithm allows for precise estimation of the natural parameter using a single network through an objective perturbation technique. Furthermore, we establish regret bounds for this algorithm and assess its performance on synthetic datasets and two real-world networks: one involving HIV status in a social network and the other concerning the political leaning of online blogs.
 
-[PDF available here](https://proceedings.mlr.press/v238/chakraborty24a/chakraborty24a.pdf)  
+[PDF](https://proceedings.mlr.press/v238/chakraborty24a/chakraborty24a.pdf)  

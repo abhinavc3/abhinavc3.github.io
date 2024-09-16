@@ -16,4 +16,4 @@ Within this framework, both global and pointwise estimation are considered, and 
 
 Together, these findings shed light on the tradeoff between statistical accuracy and privacy preservation. In particular, we characterize the compromise not only in terms of the privacy budget but also concerning the loss incurred by distributing data within the privacy framework. This insight captures the folklore wisdom that it is easier to retain privacy in larger samples and explores the differences between pointwise and global estimation under distributed privacy constraints.
 
-[PDF available here](https://arxiv.org/abs/2406.06755)
+[PDF](https://arxiv.org/abs/2406.06755)

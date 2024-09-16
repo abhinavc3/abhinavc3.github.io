@@ -16,4 +16,4 @@ We first establish matching lower and upper bounds, up to a logarithmic factor, 
 
 Furthermore, the results reveal an intriguing phenomenon: distributed one-shot protocols with access to shared randomness outperform those without access to shared randomness. We also construct a data-driven testing procedure that adapts to an unknown regularity parameter over a large collection of function classes with minimal additional cost, all while maintaining adherence to the same set of DP constraints.
 
-[PDF available here](https://arxiv.org/abs/2406.06749)
+[PDF](https://arxiv.org/abs/2406.06749)

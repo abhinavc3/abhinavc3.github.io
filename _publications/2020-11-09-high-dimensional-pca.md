@@ -16,4 +16,4 @@ In this paper, we study the high-dimensional asymptotic regime, where the number
 
 We explore whether strong consistency of AIC can still hold when the "gap" is made smaller. We show that strong consistency under an arbitrarily small gap is achievable if the penalty term of AIC is suitably altered based on the target gap. Furthermore, we demonstrate that an intuitive alteration of the penalty term can result in the gap being exactly zero, although in this case, we only achieve weak consistency.
 
-[PDF available here](https://arxiv.org/abs/2011.04470)
+[PDF](https://arxiv.org/abs/2011.04470)
