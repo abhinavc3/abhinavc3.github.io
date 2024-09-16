@@ -8,12 +8,3 @@ date: 2022-01-01
 location: "Philadelphia, US"
 ---
 
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
