@@ -3,17 +3,15 @@ title: "Teaching Assistant"
 permalink: /teaching-assistant/
 layout: single
 author_profile: true
-share: true
+share: false
 comments: true
 ---
 
-### Teaching Assistant Experiences
-
-- **STAT 101: Introduction to Statistics** (Fall 2023)  
-  Assisted with lectures, held office hours, and graded assignments for an undergraduate statistics course.
-
-- **STAT 542: Advanced Statistical Theory** (Spring 2023)  
-  Conducted review sessions, developed course materials, and graded problem sets for a graduate-level theory course.
-
-- **MATH 240: Linear Algebra** (Fall 2022)  
-  Led recitation sections, graded exams, and provided tutoring for undergraduate students.
+- **STAT 9710: Mathematical Statistics** (Fall 2022, Spring 2024)  
+ 
+- **STAT 4300: Probability** (Spring 2023, Fall 2024)  
+ 
+- **STAT 5200: Applied Econometric I** (Fall 2021)  
+  
+- **MATH 6480: Probability Theory** (Fall 2023)  
+ 
