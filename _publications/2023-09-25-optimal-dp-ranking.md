@@ -6,7 +6,7 @@ permalink: /publication/2023-09-25-optimal-dp-ranking
 excerpt: 'This paper proposes optimal differentially private algorithms for ranking from noisy pairwise comparisons, establishing minimax rates for both parametric and nonparametric settings.'
 date: 2023-09-25
 venue: 'Technical Report'
-paperurl: /files/DP_Ranking_main.pdf
+paperurl: /files/DP_Ranking_Main.pdf
 citation: 'T. Tony Cai, Abhinav Chakraborty, Yichen Wang. (2023). "Optimal Differentially Private Ranking from Pairwise Comparisons.".'
 ---
 
