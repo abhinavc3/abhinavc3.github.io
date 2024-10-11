@@ -2,7 +2,7 @@
 title: "Optimal Differentially Private Ranking from Pairwise Comparisons"
 collection: publications
 category: preprints
-permalink: /publication/2023-09-25-optimal-dp-ranking
+permalink: /publication/2023-09-25-optimal-differentially-private-ranking
 excerpt: 'This paper proposes optimal differentially private algorithms for ranking from noisy pairwise comparisons, establishing minimax rates for both parametric and nonparametric settings.'
 date: 2023-09-25
 venue: 'Technical Report'
