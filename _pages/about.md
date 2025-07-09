@@ -6,8 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am currently a [Founder's Postdoctoral Fellow](https://stat.columbia.edu/founders-postdoctoral-fellowship/) in the [Department of Statistics](https://stat.columbia.edu/) at [Columbia University](https://www.columbia.edu/).
 
-I am a fifth-year PhD student in the [Department of Statistics and Data Science](https://statistics.wharton.upenn.edu/), [Wharton School](https://www.wharton.upenn.edu/) of [University of Pennsylvania](https://www.upenn.edu/), advised by [T. Tony Cai](http://www-stat.wharton.upenn.edu/~tcai/). My research broadly focuses on high-dimensional and non-parametric statistics, with a specific interest in distributed statistical estimation under privacy constraints and distribution shift. I also closely collaborate with [Eugene Katsevich](https://ekatsevi.github.io/) on high-dimensional variable selection and conditional independence testing.
+I recently completed my PhD in the [Department of Statistics and Data Science](https://statistics.wharton.upenn.edu/), [Wharton School](https://www.wharton.upenn.edu/) of [University of Pennsylvania](https://www.upenn.edu/), where I was advised by [T. Tony Cai](http://www-stat.wharton.upenn.edu/~tcai/). My research broadly focused on high-dimensional and non-parametric statistics, with a specific interest in distributed statistical estimation under privacy constraints and distribution shift. I also closely collaborate with [Eugene Katsevich](https://ekatsevi.github.io/) on high-dimensional variable selection and conditional independence testing.
 
 Prior to my PhD, I completed both my Bachelor's and Master's degrees at the [Indian Statistical Institute](https://www.isical.ac.in/).
 
