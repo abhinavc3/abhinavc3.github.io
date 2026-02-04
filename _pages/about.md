@@ -13,11 +13,12 @@ I recently completed my PhD in Statistics from the [Department of Statistics and
 Prior to my PhD, I completed both my Bachelor's and Master's degrees at the [Indian Statistical Institute](https://www.isical.ac.in/).
 
 ### Research Interests
-- Nonparametric Estimation and Inference
+- High Dimensional Estimation and Inference
 - Differential Privacy
+- Stability
 - Transfer Learning
 - Minimax theory
-- High-dimensional Variable Selection
+- Multiple Testing and Variable Selection
 - Conditional Independence Testing
 - Double/Debiased Machine Learning
  
