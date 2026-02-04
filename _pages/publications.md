@@ -10,13 +10,13 @@ author_profile: false
 ### 2026
 
 **Optimal differentially private ranking from pairwise comparisons** [[Journal]](https://www.tandfonline.com/doi/full/10.1080/01621459.2026.2612773) [[Preprint]](https://arxiv.org/abs/2507.09388)  
-T. Tony Cai\*, Abhinav Chakraborty\*, Yichen Wang\*. *Journal of the American Statistical Association* (2026) ( \*authors listed alphabetically)
+T. Tony Cai\*, Abhinav Chakraborty\*, Yichen Wang\*. *Journal of the American Statistical Association* (2026) (\* authors listed alphabetically)
 
 **Stability and Accuracy Trade-offs in Statistical Estimation** [[Preprint]](https://arxiv.org/abs/2601.11701)  
-Abhinav Chakraborty\* Yuetian Luo\*, Rina Foygel Barber. *arXiv preprint* (2026) ( \*equal contribution)
+Abhinav Chakraborty\* Yuetian Luo\*, Rina Foygel Barber. *arXiv preprint* (2026) (\* equal contribution)
 
 **Comparing three learn-then-test paradigms in a multivariate normal means problem** [[Preprint]](https://arxiv.org/abs/2601.07764)  
-Abhinav Chakraborty\* Junu Lee\*, Eugene Katsevich. *arXiv preprint* (2026) ( \*equal contribution)
+Abhinav Chakraborty\* Junu Lee\*, Eugene Katsevich. *arXiv preprint* (2026) (\* equal contribution)
 
 
 ### 2025
