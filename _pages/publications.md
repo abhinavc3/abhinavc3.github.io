@@ -58,8 +58,7 @@ T. Tony Cai\*, Abhinav Chakraborty\*, Lasse Vuursteen\*. *arXiv preprint* (2024)
 T. Tony Cai\*, Abhinav Chakraborty\*, Lasse Vuursteen\*. *arXiv preprint* (2024) (\* authors listed alphabetically)
 
 **PriME: Privacy-aware Membership Profile Estimation in Networks** [[Preprint]](https://arxiv.org/abs/2406.02794)  
-Abhinav Chakraborty\*, Sayak Chatterjee\*, Sagnik Nandy\*. *arXiv preprint* (2024)  (\* equal contribution)
-
+Abhinav Chakraborty, Sayak Chatterjee, Sagnik Nandy. *arXiv preprint* (2024)  
 
 ### 2020
 
