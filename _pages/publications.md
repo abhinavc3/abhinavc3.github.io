@@ -13,10 +13,10 @@ author_profile: false
 T. Tony Cai, Abhinav Chakraborty, Yichen Wang. *Journal of the American Statistical Association* (2026)
 
 **Stability and Accuracy Trade-offs in Statistical Estimation** [[Preprint]](https://arxiv.org/abs/2601.11701)  
-Abhinav Chakraborty, Yuetian Luo, Rina Foygel Barber. *arXiv preprint* (2026)
+Abhinav Chakraborty*, Yuetian Luo*, Rina Foygel Barber. *arXiv preprint* (2026) (*equal contribution)
 
 **Comparing three learn-then-test paradigms in a multivariate normal means problem** [[Preprint]](https://arxiv.org/abs/2601.07764)  
-Abhinav Chakraborty, Junu Lee, Eugene Katsevich. *arXiv preprint* (2026)
+Abhinav Chakraborty*, Junu Lee*, Eugene Katsevich. *arXiv preprint* (2026) (*equal contribution)
 
 
 ### 2025
