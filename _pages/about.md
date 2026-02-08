@@ -6,21 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a [Founder's Postdoctoral Fellow](https://stat.columbia.edu/founders-postdoctoral-fellowship/) in the [Department of Statistics](https://stat.columbia.edu/) at [Columbia University](https://www.columbia.edu/).
+I am currently a [Founder's Postdoctoral Fellow](https://stat.columbia.edu/founders-postdoctoral-fellowship/) in the [Department of Statistics](https://stat.columbia.edu/) at [Columbia University](https://www.columbia.edu/). I completed my PhD in Statistics at the [Department of Statistics and Data Science](https://statistics.wharton.upenn.edu/), [Wharton School](https://www.wharton.upenn.edu/) of the [University of Pennsylvania](https://www.upenn.edu/), where I was advised by [T. Tony Cai](http://www-stat.wharton.upenn.edu/~tcai/). Prior to that, I completed both my Bachelor's and Master's degrees at the [Indian Statistical Institute](https://www.isical.ac.in/).
 
-I recently completed my PhD in Statistics from the [Department of Statistics and Data Science](https://statistics.wharton.upenn.edu/), [Wharton School](https://www.wharton.upenn.edu/) of [University of Pennsylvania](https://www.upenn.edu/), where I was advised by [T. Tony Cai](http://www-stat.wharton.upenn.edu/~tcai/). My research broadly focused on high-dimensional and non-parametric statistics, with a specific interest in distributed statistical estimation under privacy constraints and distribution shift. I also closely collaborate with [Eugene Katsevich](https://ekatsevi.github.io/) on high-dimensional variable selection and conditional independence testing.
+My current research centers on the foundations of reliable modern statistical learning: **stability–accuracy tradeoffs**, **the cost of adaptation** under **privacy constraints** and **distribution shift**, and **learning with shared representations**. I’m also interested in **inference with predictions**: how to **optimally use predictive models for valid and powerdul uncertainty quantification**. During my PhD, I worked on **minimax-optimal high-dimensional and nonparametric methods for distributed/federated inference under heterogeneous differential privacy constraints**, with applications including functional estimation and nonparametric regression. I also collaborated with [Eugene Katsevich](https://ekatsevi.github.io/) on high-dimensional inference, variable selection, and conditional independence testing.
 
-Prior to my PhD, I completed both my Bachelor's and Master's degrees at the [Indian Statistical Institute](https://www.isical.ac.in/).
-
-### Research Interests
-- High Dimensional Estimation and Inference
-- Differential Privacy
-- Stability
-- Transfer Learning
-- Minimax theory
-- Multiple Testing and Variable Selection
-- Conditional Independence Testing
-- Double/Debiased Machine Learning
  
 <!---
 
