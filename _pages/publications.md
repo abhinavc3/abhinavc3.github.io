@@ -12,6 +12,9 @@ author_profile: false
 **Optimal differentially private ranking from pairwise comparisons** [[Journal]](https://www.tandfonline.com/doi/full/10.1080/01621459.2026.2612773) [[Preprint]](https://arxiv.org/abs/2507.09388)  
 T. Tony Cai\*, Abhinav Chakraborty\*, Yichen Wang\*. *Journal of the American Statistical Association* (2026) (\* authors listed alphabetically)
 
+**The Statistical Cost of Adaptation in Multi-Source Transfer Learning** [[Preprint]](https://arxiv.org/abs/2605.09471)  
+Abhinav Chakraborty, Subha Maity. *arXiv preprint* (2026)
+
 **Stability and Accuracy Trade-offs in Statistical Estimation** [[Preprint]](https://arxiv.org/abs/2601.11701)  
 Abhinav Chakraborty\* Yuetian Luo\*, Rina Foygel Barber. *arXiv preprint* (2026) (\* equal contribution)
 
