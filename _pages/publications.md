@@ -9,6 +9,12 @@ author_profile: false
 
 ### 2026
 
+**Optimal Federated Learning for Nonparametric Regression with Heterogeneous Distributed Differential Privacy Constraints** [[Preprint]](https://arxiv.org/abs/2406.06755)  
+T. Tony Cai\*, Abhinav Chakraborty\*, Lasse Vuursteen\*. *Journal of the American Statistical Association* (2026+) (\* authors listed alphabetically)
+
+**PriME: Privacy-aware Membership Profile Estimation in Networks** [[Preprint]](https://arxiv.org/abs/2406.02794)  
+Abhinav Chakraborty, Sayak Chatterjee, Sagnik Nandy. *SIAM Journal on Mathematics of Data Science* (2026+)
+
 **Optimal differentially private ranking from pairwise comparisons** [[Journal]](https://www.tandfonline.com/doi/full/10.1080/01621459.2026.2612773) [[Preprint]](https://arxiv.org/abs/2507.09388)  
 T. Tony Cai\*, Abhinav Chakraborty\*, Yichen Wang\*. *Journal of the American Statistical Association* (2026) (\* authors listed alphabetically)
 
@@ -54,14 +60,8 @@ Tony Cai\*, Abhinav Chakraborty\*, Lasse Vuursteen\*. *arXiv preprint* (2024) (\
 **Doubly Robust and Computationally Efficient High-Dimensional Variable Selection** [[Preprint]](https://arxiv.org/abs/2409.09512)  
 Abhinav Chakraborty\*, Jeffrey Zhang\*, Eugene Katsevich. *arXiv preprint* (2024) (\* equal contribution)
 
-**Optimal Federated Learning for Nonparametric Regression with Heterogeneous Distributed Differential Privacy Constraints** [[Preprint]](https://arxiv.org/abs/2406.06755)  
-T. Tony Cai\*, Abhinav Chakraborty\*, Lasse Vuursteen\*. *arXiv preprint* (2024) (\* authors listed alphabetically)
-
 **Federated Nonparametric Hypothesis Testing with Differential Privacy Constraints: Optimal Rates and Adaptive Tests** [[Preprint]](https://arxiv.org/abs/2406.06749)  
 T. Tony Cai\*, Abhinav Chakraborty\*, Lasse Vuursteen\*. *arXiv preprint* (2024) (\* authors listed alphabetically)
-
-**PriME: Privacy-aware Membership Profile Estimation in Networks** [[Preprint]](https://arxiv.org/abs/2406.02794)  
-Abhinav Chakraborty, Sayak Chatterjee, Sagnik Nandy. *arXiv preprint* (2024)  
 
 ### 2020
 
