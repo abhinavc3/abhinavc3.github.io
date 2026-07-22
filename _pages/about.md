@@ -6,6 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+<div class="compact-text" markdown="1">
+
 **I am on the academic job market (2026–27).**
 
 I am currently a [Founder’s Postdoctoral Fellow](https://stat.columbia.edu/founders-postdoctoral-fellowship/) in the [Department of Statistics](https://stat.columbia.edu/) at [Columbia University](https://www.columbia.edu/). During my postdoc, I have had the opportunity to collaborate with [Rina Foygel Barber](https://rinafb.github.io/), [Samory Kpotufe](https://www.columbia.edu/~skk2175/), [Edward Kennedy](https://www.ehkennedy.com/), [Sivaraman Balakrishnan](https://www.stat.cmu.edu/~siva/), and [Larry Wasserman](https://www.stat.cmu.edu/~larry/). 
@@ -19,6 +22,8 @@ My research centers on two broad themes:
 - **Learning with auxiliary data**: How can we exploit auxiliary information to learn better? This includes [heterogeneous transfer learning and the cost of adaptation](https://arxiv.org/abs/2605.09471), learning from shared representations, transfer learning for unsupervised problems, and using black-box predictors for testing and inference. This is the focus of much of my current work.
 
 I have also worked on problems in [multiple testing](https://arxiv.org/abs/2601.07764), [variable selection](https://arxiv.org/abs/2409.09512), and [conditional independence testing](https://projecteuclid.org/journals/annals-of-statistics/volume-52/issue-3/Reconciling-model-X-and-doubly-robust-approaches-to-conditional-independence/10.1214/24-AOS2372.full).
+
+</div>
 
  
 <!---

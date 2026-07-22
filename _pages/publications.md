@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: false
 ---
 
+<div class="compact-text" markdown="1">
+
 ## Publications and Preprints
 
 ### 2026
@@ -68,5 +70,6 @@ T. Tony Cai\*, Abhinav Chakraborty\*, Lasse Vuursteen\*. *arXiv preprint* (2024)
 **High Dimensional PCA: A New Model Selection Criterion** [[Preprint]](https://arxiv.org/abs/2011.04470)  
 Abhinav Chakraborty, Soumendu Sundar Mukherjee, Arijit Chakrabarti. *arXiv preprint* (2020)
 
+</div>
 
 
