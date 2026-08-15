@@ -11,6 +11,15 @@ author_profile: false
 
 ### 2026
 
+**Optimal Inference with Black-box Predictions** [[Preprint]](https://arxiv.org/abs/2608.10155)<br>
+Lucas Kania, Abhinav Chakraborty, Edward Kennedy, Larry Wasserman, Sivaraman Balakrishnan. *arXiv preprint* (2026)
+
+**Transfer Learning in High-Dimensional Clustering: Minimax Thresholds and Applications in Single-Cell Data** [[Preprint]](https://arxiv.org/abs/2607.25031)<br>
+Abhinav Chakraborty, Sagnik Nandy. *arXiv preprint* (2026)
+
+**Optimal Federated Learning for Functional Mean Estimation under Heterogeneous Privacy Constraints** [[Preprint]](https://arxiv.org/abs/2412.18992)<br>
+Tony Cai\*, Abhinav Chakraborty\*, Lasse Vuursteen\*. *Journal of the Royal Statistical Society: Series B* (2026+) (\* authors listed alphabetically)
+
 **Optimal Federated Learning for Nonparametric Regression with Heterogeneous Distributed Differential Privacy Constraints** [[Preprint]](https://arxiv.org/abs/2406.06755)  
 T. Tony Cai\*, Abhinav Chakraborty\*, Lasse Vuursteen\*. *Journal of the American Statistical Association* (2026+) (\* authors listed alphabetically)
 
@@ -56,9 +65,6 @@ Ziang Niu\*, Abhinav Chakraborty\*, Oliver Dukes, Eugene Katsevich. *The Annals 
 **PrIsing: Privacy-Preserving Peer Effect Estimation via Ising Model** [[PDF]](https://proceedings.mlr.press/v238/chakraborty24a/chakraborty24a.pdf)  
 Abhinav Chakraborty\*, Anirban Chatterjee\*, Abhinandan Dalal\*. *International Conference on Artificial Intelligence and Statistics (AISTATS)* (2024) (\* equal contribution)
 
-**Optimal Federated Learning for Functional Mean Estimation under Heterogeneous Privacy Constraints** [[Preprint]](https://arxiv.org/abs/2412.18992)  
-Tony Cai\*, Abhinav Chakraborty\*, Lasse Vuursteen\*. *arXiv preprint* (2024) (\* authors listed alphabetically)
-
 **Doubly Robust and Computationally Efficient High-Dimensional Variable Selection** [[Preprint]](https://arxiv.org/abs/2409.09512)  
 Abhinav Chakraborty\*, Jeffrey Zhang\*, Eugene Katsevich. *arXiv preprint* (2024) (\* equal contribution)
 
@@ -71,5 +77,3 @@ T. Tony Cai\*, Abhinav Chakraborty\*, Lasse Vuursteen\*. *arXiv preprint* (2024)
 Abhinav Chakraborty, Soumendu Sundar Mukherjee, Arijit Chakrabarti. *arXiv preprint* (2020)
 
 </div>
-
-
