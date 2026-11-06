@@ -11,20 +11,23 @@ author_profile: false
 
 ### 2026
 
+**The Geometry of Multitask Learning: Sharp Rates for Shared Subspace Estimation** [[Preprint]](https://arxiv.org/abs/2610.40713)<br>
+T. Tony Cai\*, Abhinav Chakraborty\*, Samory Kpotufe\*. *arXiv preprint* (2026) (\* authors listed alphabetically)
+
 **Optimal Inference with Black-box Predictions** [[Preprint]](https://arxiv.org/abs/2608.10155)<br>
 Lucas Kania, Abhinav Chakraborty, Edward Kennedy, Larry Wasserman, Sivaraman Balakrishnan. *arXiv preprint* (2026)
 
 **Transfer Learning in High-Dimensional Clustering: Minimax Thresholds and Applications in Single-Cell Data** [[Preprint]](https://arxiv.org/abs/2607.25031)<br>
 Abhinav Chakraborty, Sagnik Nandy. *arXiv preprint* (2026)
 
-**Optimal Federated Learning for Functional Mean Estimation under Heterogeneous Privacy Constraints** [[Preprint]](https://arxiv.org/abs/2412.18992)<br>
-Tony Cai\*, Abhinav Chakraborty\*, Lasse Vuursteen\*. *Journal of the Royal Statistical Society: Series B* (2026+) (\* authors listed alphabetically)
+**Optimal Federated Learning for Functional Mean Estimation under Heterogeneous Privacy Constraints** [[Journal]](https://academic.oup.com/jrsssb/advance-article-abstract/doi/10.1093/jrsssb/qkag124/8787974) [[Preprint]](https://arxiv.org/abs/2412.18992)<br>
+T. Tony Cai\*, Abhinav Chakraborty\*, Lasse Vuursteen\*. *Journal of the Royal Statistical Society: Series B*, qkag124 (2026) (\* authors listed alphabetically)
 
-**Optimal Federated Learning for Nonparametric Regression with Heterogeneous Distributed Differential Privacy Constraints** [[Preprint]](https://arxiv.org/abs/2406.06755)  
-T. Tony Cai\*, Abhinav Chakraborty\*, Lasse Vuursteen\*. *Journal of the American Statistical Association* (2026+) (\* authors listed alphabetically)
+**Optimal Federated Learning for Nonparametric Regression with Heterogeneous Distributed Differential Privacy Constraints** [[Journal]](https://www.tandfonline.com/doi/full/10.1080/01621459.2026.2731119) [[Preprint]](https://arxiv.org/abs/2406.06755)<br>
+T. Tony Cai\*, Abhinav Chakraborty\*, Lasse Vuursteen\*. *Journal of the American Statistical Association*, 1–87 (2026) (\* authors listed alphabetically)
 
-**PriME: Privacy-aware Membership Profile Estimation in Networks** [[Preprint]](https://arxiv.org/abs/2406.02794)  
-Abhinav Chakraborty, Sayak Chatterjee, Sagnik Nandy. *SIAM Journal on Mathematics of Data Science* (2026+)
+**PriME: Privacy-aware Membership Profile Estimation in Networks** [[Journal]](https://epubs.siam.org/doi/10.1137/24M1668779) [[Preprint]](https://arxiv.org/abs/2406.02794)<br>
+Abhinav Chakraborty\*, Sayak Chatterjee\*, Sagnik Nandy\*. *SIAM Journal on Mathematics of Data Science*, 8(3): 1029–1061 (2026) (\* equal contribution)
 
 **Optimal differentially private ranking from pairwise comparisons** [[Journal]](https://www.tandfonline.com/doi/full/10.1080/01621459.2026.2612773) [[Preprint]](https://arxiv.org/abs/2507.09388)  
 T. Tony Cai\*, Abhinav Chakraborty\*, Yichen Wang\*. *Journal of the American Statistical Association* (2026) (\* authors listed alphabetically)
